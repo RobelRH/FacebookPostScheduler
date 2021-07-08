@@ -1,7 +1,7 @@
 import requests
 import schedule
 
-page_id = 102900765394867
+page_id = 102xxxxxxxxx867 # you will enter your page id here
 
 # long_lived_user_token
 long_lived_user_token = "" # enter your long lived user token here
